@@ -12,7 +12,7 @@ metadata:
       title: GitHub Repo
       icon: github
   annotations:
-    kafka.apache.org/consumer-groups: sagent_test_kafka/sagentgroup1
+    kafka.apache.org/consumer-groups: sagent_test_kafka/confluent_cli_consumer_c6dc18e1-0a43-4d35-92da-7b469885b171
 spec:
   type: service
   lifecycle: experimental
