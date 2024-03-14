@@ -11,6 +11,8 @@ metadata:
     - url: https://github.com/swagger-api/swagger-petstore
       title: GitHub Repo
       icon: github
+  annotations:
+    kafka.apache.org/consumer-groups: sagent_test_kafka/sagentgroup1
 spec:
   type: service
   lifecycle: experimental
